@@ -1,0 +1,207 @@
+Type: region, Parent ID: 
+Type: province, Parent ID: 1900000012
+Type: province, Parent ID: 1900000011
+Type: province, Parent ID: 1900000018
+Type: province, Parent ID: 1900000016
+Type: region, Parent ID: 
+Type: province, Parent ID: 1900000015
+Type: province, Parent ID: 1900000014
+Type: province, Parent ID: 1900000012
+Type: province, Parent ID: 1900000011
+Type: region, Parent ID: 
+Type: region, Parent ID: 
+Type: province, Parent ID: 1900000002
+Type: region, Parent ID: 
+Type: province, Parent ID: 1900000001
+Type: region, Parent ID: 
+Type: province, Parent ID: 1900000001
+Type: province, Parent ID: 1900000002
+Type: province, Parent ID: 1900000001
+Type: province, Parent ID: 1900000002
+Type: province, Parent ID: 1900000006
+Type: region, Parent ID: 
+Type: province, Parent ID: 1900000002
+Type: province, Parent ID: 1900000004
+Type: province, Parent ID: 1900000001
+Type: province, Parent ID: 1900000002
+Type: region, Parent ID: 
+Type: province, Parent ID: 1900000002
+Type: province, Parent ID: 1900000001
+Type: region, Parent ID: 
+Type: province, Parent ID: 1900000002
+Type: province, Parent ID: 1900000004
+Type: region, Parent ID: 
+Type: region, Parent ID: 
+Type: province, Parent ID: 1900000013
+Type: province, Parent ID: 1900000012
+Type: region, Parent ID: 
+Type: province, Parent ID: 1900000011
+Type: region, Parent ID: 
+Type: province, Parent ID: 1900000001
+Type: province, Parent ID: 1900000002
+Type: region, Parent ID: 
+Type: province, Parent ID: 1900000001
+Type: province, Parent ID: 1900000002
+Type: province, Parent ID: 1900000004
+Type: province, Parent ID: 1900000003
+Type: region, Parent ID: 
+Type: region, Parent ID: 
+Type: region, Parent ID: 
+Type: region, Parent ID: 
+Type: region, Parent ID: 
+Type: region, Parent ID: 
+Type: region, Parent ID: 
+Type: region, Parent ID: 
+Type: region, Parent ID: 
+Type: region, Parent ID: 
+Type: region, Parent ID: 
+Type: province, Parent ID: 1900000002
+Type: province, Parent ID: 1900000014
+Type: province, Parent ID: 1900000012
+Type: province, Parent ID: 1900000010
+Type: province, Parent ID: 1900000006
+Type: province, Parent ID: 1900000014
+Type: province, Parent ID: 1900000012
+Type: province, Parent ID: 1900000009
+Type: region, Parent ID: 
+Type: province, Parent ID: 1900000015
+Type: province, Parent ID: 1900000011
+Type: province, Parent ID: 1900000001
+Type: province, Parent ID: 1900000015
+Type: region, Parent ID: 
+Type: region, Parent ID: 
+Type: province, Parent ID: 1900000012
+Type: region, Parent ID: 
+Type: province, Parent ID: 1900000012
+Type: province, Parent ID: 1900000005
+Type: region, Parent ID: 
+Type: region, Parent ID: 
+Type: province, Parent ID: 1900000010
+Type: province, Parent ID: 1900000008
+Type: province, Parent ID: 1900000007
+Type: province, Parent ID: 1900000013
+Type: region, Parent ID: 
+Type: region, Parent ID: 
+Type: region, Parent ID: 
+Type: region, Parent ID: 
+Type: region, Parent ID: 
+Type: region, Parent ID: 
+Type: province, Parent ID: 0
+Type: province, Parent ID: 0
+{"type":"region"}
+Type: region, Parent ID: 
+Type: province, Parent ID: 1900000015
+Type: province, Parent ID: 1900000008
+Type: province, Parent ID: 1900000012
+Type: province, Parent ID: 1900000017
+Type: province, Parent ID: 1900000016
+Type: province, Parent ID: 1900000013
+Type: province, Parent ID: 1900000014
+Type: province, Parent ID: 1900000002
+Type: province, Parent ID: 1900000010
+{"type":"region"}
+Type: region, Parent ID: 
+Type: province, Parent ID: 1900000008
+Type: province, Parent ID: 1900000010
+{"type":"region"}
+Type: region, Parent ID: 
+Type: region, Parent ID: 
+Type: province, Parent ID: 1900000012
+Type: region, Parent ID: 
+Type: province, Parent ID: 1900000011
+Type: province, Parent ID: 1900000012
+Type: province, Parent ID: 1900000009
+Type: province, Parent ID: 1900000012
+Type: province, Parent ID: 1900000013
+Type: province, Parent ID: 1900000018
+Type: province, Parent ID: 1900000017
+Type: province, Parent ID: 1900000015
+Type: region, Parent ID: 
+Type: province, Parent ID: 1900000015
+Type: province, Parent ID: 1900000018
+Type: province, Parent ID: 1900000017
+Type: region, Parent ID: 0
+Type: region, Parent ID: 
+Type: province, Parent ID: 1900000013
+Type: region, Parent ID: 
+Type: region, Parent ID: 
+Type: region, Parent ID: 
+Type: region, Parent ID: 
+Type: region, Parent ID: 
+Type: provinces, Parent ID: 1900000015
+Type: provinces, Parent ID: 1900000014
+Type: provinces, Parent ID: 1900000004
+Type: region, Parent ID: 
+Type: province, Parent ID: 1900000015
+Type: province, Parent ID: 1900000013
+Type: region, Parent ID: 
+Type: province, Parent ID: 1900000014
+Type: region, Parent ID: 
+Type: province, Parent ID: 1900000016
+Type: province, Parent ID: 1900000007
+Type: region, Parent ID: 
+Type: province, Parent ID: 1900000014
+Type: region, Parent ID: 
+Type: province, Parent ID: 1900000014
+Type: region, Parent ID: 
+Type: region, Parent ID: 
+Type: region, Parent ID: 
+Type: region, Parent ID: 
+Type: region, Parent ID: 
+Type: region, Parent ID: 
+Type: region, Parent ID: 
+Type: province, Parent ID: 1900000015
+Type: province, Parent ID: 1900000010
+Type: province, Parent ID: 1900000015
+Type: region, Parent ID: 
+Type: region, Parent ID: 
+Type: region, Parent ID: 
+Type: region, Parent ID: 
+Type: region, Parent ID: 
+Type: region, Parent ID: 
+Type: province, Parent ID: 1900000015
+Type: province, Parent ID: 1900000012
+Type: province, Parent ID: 1900000014
+Type: province, Parent ID: 1900000012
+Type: region, Parent ID: 
+Type: region, Parent ID: 
+Type: region, Parent ID: 
+Type: province, Parent ID: 1900000015
+Type: region, Parent ID: 
+Type: region, Parent ID: 
+Type: region, Parent ID: 
+Type: province, Parent ID: 1900000015
+Type: region, Parent ID: 
+Type: province, Parent ID: 1900000014
+Type: region, Parent ID: 
+Type: region, Parent ID: 
+Type: region, Parent ID: 
+Type: region, Parent ID: 
+Type: province, Parent ID: 1900000016
+Type: region, Parent ID: 
+Type: region, Parent ID: 
+Type: province, Parent ID: 1900000015
+Type: region, Parent ID: 
+Type: province, Parent ID: 1900000016
+Type: province, Parent ID: 1900000017
+Type: province, Parent ID: 1900000012
+Type: region, Parent ID: 
+Type: region, Parent ID: 
+Type: region, Parent ID: 
+Type: province, Parent ID: 1900000014
+Type: province, Parent ID: 1900000001
+Type: province, Parent ID: 1900000013
+Type: region, Parent ID: 
+Type: region, Parent ID: 
+Type: region, Parent ID: 
+Type: region, Parent ID: 
+Type: region, Parent ID: 
+Type: province, Parent ID: 1900000015
+Type: province, Parent ID: 1900000007
+Type: region, Parent ID: 
+Type: region, Parent ID: 
+Type: region, Parent ID: 
+Type: region, Parent ID: 
+Type: province, Parent ID: 1900000015
+Type: province, Parent ID: 1900000018
+Type: province, Parent ID: 1900000002

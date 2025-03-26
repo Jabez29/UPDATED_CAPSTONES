@@ -1,0 +1,451 @@
+<div class="p-4 border rounded shadow-sm bg-white">
+    <div class="block-heading text-center">
+        <h3 class="mb-3">D.Employment Data</h3>
+
+
+        <p>(Employment here means any type of work performed or services rendered in exchange for
+            compensation under a contract of hire which creates the employer and employee relation)
+        </p>
+
+        <p>16. Are you presently employed?</p>
+        <label><input type="radio" name="employed" value="yes"> Yes</label>
+        <label><input type="radio" name="employed" value="no"> No</label>
+        <label><input type="radio" name="employed" value="never_employed"> Never Employed</label>
+
+        <p>If NO or NEVER BEEN EMPLOYED, proceed to Questions 17. If YES, proceed to Questions 18 to
+            22.
+        </p>
+
+        <p>17. Please state reason(s) why you are not yet employed. You may check (/) more than one
+            answer.</p>
+        <label><input type="checkbox" name="reason_not_employed" value="advance_study"> Advance or
+            further study</label><br>
+        <label><input type="checkbox" name="reason_not_employed" value="family_concern"> Family
+            concern
+            and decided not to find a job</label><br>
+        <label><input type="checkbox" name="reason_not_employed" value="health_issue">
+            Health-related
+            reason(s)</label><br>
+        <label><input type="checkbox" name="reason_not_employed" value="lack_experience"> Lack of
+            work
+            experience</label><br>
+        <label><input type="checkbox" name="reason_not_employed" value="no_job_opportunity"> No job
+            opportunity</label><br>
+        <label><input type="checkbox" name="reason_not_employed" value="did_not_look_for_job"> Did
+            not
+            look for a job</label><br>
+        <label><input type="checkbox" name="reason_not_employed" value="other_reasons"> Other
+            reason(s),
+            please specify:</label>
+        <input type="text" name="other_reason_specify">
+
+        <p>18. Present Employment Status</p>
+        <label><input type="radio" name="employment_status" value="regular"> Regular or
+            Permanent</label>
+        <label><input type="radio" name="employment_status" value="contractual"> Contractual</label>
+        <label><input type="radio" name="employment_status" value="temporary"> Temporary</label>
+        <label><input type="radio" name="employment_status" value="self_employed">
+            Self-employed</label>
+        <label><input type="radio" name="employment_status" value="casual"> Casual</label>
+
+        <p>19. Present occupation: <input type="text" name="present_occupation"></p>
+
+        <p>20a. Name of Company or Organization including address:</p>
+        <input type="text" name="company_name">
+
+        <p>20b. Major line of business of the company you are presently employed in. Please check
+            one
+            only.</p>
+        <label><input type="checkbox" name="business_type" value="agriculture"> Agriculture,
+            Hunting,
+            and Forestry</label><br>
+        <label><input type="checkbox" name="business_type" value="fishing"> Fishing</label><br>
+        <label><input type="checkbox" name="business_type" value="mining"> Mining and
+            Quarrying</label><br>
+        <label><input type="checkbox" name="business_type" value="manufacturing">
+            Manufacturing</label><br>
+        <label><input type="checkbox" name="business_type" value="electricity"> Electricity, Gas and
+            Water Supply</label><br>
+        <label><input type="checkbox" name="business_type" value="construction">
+            Construction</label><br>
+        <label><input type="checkbox" name="business_type" value="wholesale_retail"> Wholesale and
+            Retail Trade</label><br>
+        <label><input type="checkbox" name="business_type" value="hotels"> Hotels and
+            Restaurants</label><br>
+        <label><input type="checkbox" name="business_type" value="transport"> Transport, Storage,
+            and
+            Communication</label><br>
+        <label><input type="checkbox" name="business_type" value="financial"> Financial
+            Intermediation</label><br>
+        <label><input type="checkbox" name="business_type" value="real_estate"> Real Estate, Renting
+            and
+            Business Activities</label><br>
+        <label><input type="checkbox" name="business_type" value="public_administration"> Public
+            Administration and Defense</label><br>
+        <label><input type="checkbox" name="business_type" value="education"> Education</label><br>
+        <label><input type="checkbox" name="business_type" value="health"> Health and Social
+            Work</label><br>
+        <label><input type="checkbox" name="business_type" value="social_services"> Other community,
+            Social and Personal Service Activities</label><br>
+        <label><input type="checkbox" name="business_type" value="private_household"> Private
+            Households
+            with Employed Persons</label><br>
+        <label><input type="checkbox" name="business_type" value="extraterritorial">
+            Extra-territorial
+            Organizations and Bodies</label><br>
+
+        <p>21. Place of Work: <label><input type="radio" name="work_place" value="local">
+                Local</label>
+            <label><input type="radio" name="work_place" value="abroad"> Abroad</label>
+        </p>
+
+        <p>22. Is this your first job after college?</p>
+        <label><input type="radio" name="first_job" value="yes"> Yes</label>
+        <label><input type="radio" name="first_job" value="no"> No</label>
+
+        <p>If NO, proceed to Questions 26 and 27.</p>
+
+        <p>23. What are the reason(s) for staying on the job? You may check (/) more than one
+            answer.
+        </p>
+        <label><input type="checkbox" name="reason_for_staying" value="salaries"> Salaries and
+            benefits</label><br>
+        <label><input type="checkbox" name="reason_for_staying" value="career_challenge"> Career
+            challenge</label><br>
+        <label><input type="checkbox" name="reason_for_staying" value="related_to_skills"> Related
+            to
+            special skill</label><br>
+        <label><input type="checkbox" name="reason_for_staying" value="related_to_course"> Related
+            to
+            course or program of study</label><br>
+        <label><input type="checkbox" name="reason_for_staying" value="proximity_to_residence">
+            Proximity to residence</label><br>
+        <label><input type="checkbox" name="reason_for_staying" value="peer_influence"> Peer
+            influence</label><br>
+        <label><input type="checkbox" name="reason_for_staying" value="family_influence"> Family
+            influence</label><br>
+        <label><input type="checkbox" name="reason_for_staying" value="other_reasons"> Other
+            reason(s),
+            please specify:</label>
+        <input type="text" name="other_staying_reason">
+
+        <p>24. After you graduated, did you look for a job right away or did you take a break?</p>
+        <label><input type="radio" name="first_job_related" value="yes"> Yes</label>
+        <label><input type="radio" name="first_job_related" value="no"> No</label>
+        <p>If YES, proceed to Question 26.</p>
+        <p>25. how many months and years did you take a break? You may check (/) one answer only.
+        </p>
+        <label><input type="checkbox" name="reason_for_staying" value="salaries"> One
+            Month</label><br>
+        <label><input type="checkbox" name="reason_for_staying" value="career_challenge"> Two
+            Month</label><br>
+        <label><input type="checkbox" name="reason_for_staying" value="related_to_skills"> Three
+            Month</label><br>
+        <label><input type="checkbox" name="reason_for_staying" value="related_to_course"> Four
+            Month</label><br>
+        <label><input type="checkbox" name="reason_for_staying" value="proximity_to_residence">
+            Five
+            Month</label><br>
+        <label><input type="checkbox" name="reason_for_staying" value="peer_influence"> Sixth
+            Month</label><br>
+        <label><input type="checkbox" name="reason_for_staying" value="family_influence"> Seven
+            Month</label><br>
+        <label><input type="checkbox" name="reason_for_staying" value="other_reasons"> One Year
+        </label>
+
+
+        <p>26. Is your first job related to the course you took up in college?</p>
+        <label><input type="radio" name="first_job_related" value="yes"> Yes</label>
+        <label><input type="radio" name="first_job_related" value="no"> No</label>
+
+        <p>If No, proceed to Question 28.</p>
+
+        <p>27. What were your reasons for accepting the job? You may check (/) more than one answer.
+        </p>
+        <label><input type="checkbox" name="reason_for_accepting" value="salaries"> Salaries and
+            benefits</label><br>
+        <label><input type="checkbox" name="reason_for_accepting" value="career_challenge"> Career
+            challenge</label><br>
+        <label><input type="checkbox" name="reason_for_accepting" value="related_to_skills"> Related
+            to
+            special skills</label><br>
+        <label><input type="checkbox" name="reason_for_accepting" value="proximity_to_residence">
+            Proximity to residence</label><br>
+        <label><input type="checkbox" name="reason_for_accepting" value="other_reasons"> Other
+            reason(s), please specify:</label>
+        <input type="text" name="other_accepting_reason">
+
+        <p>28. What were your reasons Of your first Job are not related that you took up in college
+            (/)
+            more than one answer.</p>
+        <label><input type="checkbox" name="reason_for_changing" value="salaries"> Salaries and
+            benefits</label><br>
+        <label><input type="checkbox" name="reason_for_changing" value="career_challenge"> Career
+            challenge</label><br>
+        <label><input type="checkbox" name="reason_for_changing" value="related_to_skills"> Related
+            to
+            special skills</label><br>
+        <label><input type="checkbox" name="reason_for_changing" value="proximity_to_residence">
+            Proximity to residence</label><br>
+        <label><input type="checkbox" name="reason_for_changing" value="other_reasons"> Other
+            reason(s),
+            please specify:</label>
+        <input type="text" name="other_changing_reason">
+
+        <p>29. In your first job are you been promoted?</p>
+        <label><input type="radio" name="first_job_related" value="yes"> Yes</label>
+        <label><input type="radio" name="first_job_related" value="no"> No</label>
+
+        <p>If No, proceed to Question 31.</p>
+        30. how many months and years are you before you get promoted? You may check (/) one answer
+        only.
+        </p>
+        <label><input type="checkbox" name="reason_for_staying" value="salaries"> Seven
+            Months</label><br>
+        <label><input type="checkbox" name="reason_for_staying" value="career_challenge"> Eight
+            Months
+        </label><br>
+        <label><input type="checkbox" name="reason_for_staying" value="related_to_skills">Nine
+            Months</label><br>
+        <label><input type="checkbox" name="reason_for_staying" value="related_to_course"> Tenth
+            Months</label><br>
+        <label><input type="checkbox" name="reason_for_staying" value="proximity_to_residence">
+            Five
+            Months</label><br>
+        <label><input type="checkbox" name="reason_for_staying" value="peer_influence"> One
+            Years</label><br>
+        <label><input type="checkbox" name="reason_for_staying" value="family_influence"> two
+            Years</label><br>
+        <label><input type="checkbox" name="reason_for_staying" value="other_reasons"> Four Years
+        </label>
+
+        <p>31. How long did you stay in your first job?</p>
+        <label><input type="radio" name="first_job_duration" value="less_than_month"> Less than a
+            month</label>
+        <label><input type="radio" name="first_job_duration" value="1_to_2_years"> 1 year to less
+            than 2
+            years</label>
+        <label><input type="radio" name="first_job_duration" value="1_to_6_months"> 1 to 6
+            months</label>
+        <label><input type="radio" name="first_job_duration" value="2_to_3_years"> 2 years to less
+            than
+            3 years</label>
+        <label><input type="radio" name="first_job_duration" value="7_to_11_months"> 7 to 11
+            months</label>
+        <label><input type="radio" name="first_job_duration" value="3_to_4_years"> 3 years to less
+            than
+            4 years</label>
+        <label><input type="radio" name="first_job_duration" value="other"> Others, please
+            specify:</label>
+        <input type="text" name="other_first_job_duration">
+
+        <p>32. How did you find your first job?</p>
+        <label><input type="checkbox" name="job_finding_method" value="advertisement"> Response to
+            an
+            advertisement</label><br>
+        <label><input type="checkbox" name="job_finding_method" value="walk_in"> As walk-in
+            applicant</label><br>
+        <label><input type="checkbox" name="job_finding_method" value="recommended"> Recommended by
+            someone</label><br>
+        <label><input type="checkbox" name="job_finding_method" value="friends"> Information from
+            friends</label><br>
+        <label><input type="checkbox" name="job_finding_method" value="job_placement"> Arranged by
+            school’s job placement officer</label><br>
+        <label><input type="checkbox" name="job_finding_method" value="family_business"> Family
+            business</label><br>
+        <label><input type="checkbox" name="job_finding_method" value="job_fair"> Job Fair or Public
+            Employment Service Office (PESO)</label><br>
+        <label><input type="checkbox" name="job_finding_method" value="others"> Others, please
+            specify:</label>
+        <input type="text" name="other_job_finding_method">
+
+        <p>33. How long did it take you to land your first job?</p>
+        <label><input type="radio" name="time_to_land_first_job" value="less_than_month"> Less than
+            a
+            month</label>
+        <label><input type="radio" name="time_to_land_first_job" value="1_to_2_years"> 1 year to
+            less
+            than 2 years</label>
+        <label><input type="radio" name="time_to_land_first_job" value="1_to_6_months"> 1 to 6
+            months</label>
+        <label><input type="radio" name="time_to_land_first_job" value="2_to_3_years"> 2 years to
+            less
+            than 3 years</label>
+        <label><input type="radio" name="time_to_land_first_job" value="7_to_11_months"> 7 to 11
+            months</label>
+        <label><input type="radio" name="time_to_land_first_job" value="3_to_4_years"> 3 years to
+            less
+            than 4 years</label>
+        <label><input type="radio" name="time_to_land_first_job" value="other"> Others, please
+            specify:</label>
+        <input type="text" name="other_time_to_land_first_job">
+
+        <p>34. Job Level Position</p>
+        <label>1 First Job</label>
+        <label><input type="radio" name="first_job_level" value="rank_or_clerical"> Rank or
+            Clerical</label>
+        <label><input type="radio" name="first_job_level" value="professional_technical">
+            Professional,
+            Technical or Supervisory</label>
+        <label><input type="radio" name="first_job_level" value="managerial"> Managerial or
+            Executive</label>
+        <label><input type="radio" name="first_job_level" value="self_employed">
+            Self-employed</label>
+
+        <label>35.2 Current or Present Job</label>
+        <label><input type="radio" name="current_job_level" value="rank_or_clerical"> Rank or
+            Clerical</label>
+        <label><input type="radio" name="current_job_level" value="professional_technical">
+            Professional, Technical or Supervisory</label>
+        <label><input type="radio" name="current_job_level" value="managerial"> Managerial or
+            Executive</label>
+        <label><input type="radio" name="current_job_level" value="self_employed">
+            Self-employed</label>
+
+
+
+        <p>36. Was the curriculum you had in college relevant to your first job?</p>
+        <label><input type="radio" name="curriculum_relevance" value="yes"> Yes</label>
+        <label><input type="radio" name="curriculum_relevance" value="no"> No</label>
+
+        <p>37. If YES, what competencies learned in college did you find very useful in your first
+            job?
+            You may check (/) more than one answer.</p>
+        <label><input type="checkbox" name="competencies_used_in_first_job" value="communication_skills">
+            Communication
+            skills</label><br>
+        <label><input type="checkbox" name="competencies_used_in_first_job" value="human_relations_skills"> Human
+            Relations skills</label><br>
+        <label><input type="checkbox" name="competencies_used_in_first_job" value="entrepreneurial_skills">
+            Entrepreneurial skills</label><br>
+        <label><input type="checkbox" name="competencies_used_in_first_job" value="problem_solving_skills">
+            Problem-solving skills</label><br>
+        <label><input type="checkbox" name="competencies_used_in_first_job" value="critical_thinking_skills">
+            Critical
+            Thinking skills</label><br>
+        <label><input type="checkbox" name="competencies_used_in_first_job" value="other_skills">
+            Other
+            skills, please specify:</label>
+        <input type="text" name="other_skills_specify">
+
+        <p>38. List down suggestions to further improve your course curriculum:</p>
+        <textarea name="suggestions_for_curriculum" rows="4" cols="50"></textarea>
+        </section>
+        <form action="submit.php" method="post">
+            <h3>CONFIRM</h3>
+            <p>By checking below, I hereby voluntarily waive any and all rights I may have to privacy
+                and/or
+                confidentiality pertaining to the above-mentioned purposes insofar as the information is
+                released solely to the authorized persons in accordance thereto.</p>
+
+            <input type="checkbox" id="agree" name="agree" required>
+            <label for="agree"> I Agree</label>
+
+            <br><br>
+
+            <button type="button" class="btn btn-primary">Submit</button>
+        </form>
+
+
+
+        <!-- <form action="#" method="get">
+                 <div id="educationalFields" class="input-group d-flex">
+                     <input class="form-control" type="text" name="degree" placeholder="Degree & Specialization">
+                     <input class="form-control" type="text" name="college" placeholder="College / University">
+                     <input class="form-control" type="text" name="year" placeholder="Year Graduated">
+                     <input class="form-control" type="text" name="honors" placeholder="Honors / Awards Received">
+                 </div>
+                 <div class="mt-2">
+                     <button type="button" class="btn btn-primary" onclick="addFields('educationalFields')">Add More
+                         Fields</button>
+                     <button type="button" class="btn btn-danger" onclick="removeFields('educationalFields')">Remove
+                         Field</button> -->
+
+
+
+
+                        <!-- <table id="user-table" class="table table-striped table-success">
+                            <thead class="table-dark">
+                                <tr>
+                                    <th>Firstname</th>
+                                    <th>Middlename</th>
+                                    <th>Lastname</th>
+                                    <th>Course</th>
+                                    <th>School</th>
+                                    <th>Degree</th>
+                                    <th>Employment Status</th>
+                                    <th>Company</th>
+                                    <th>Exam Name</th>
+                                    <th>Exam Passed</th>
+                                    <th>Training</th>
+                                    <th>Training Completed</th>
+                                    <th>Course Reason</th>
+                                    <th>Course Category</th>
+                                    <th>Actions</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <?php
+                                if ($lists) {
+                                    foreach ($lists as $row) {
+                                ?>
+                                <tr>
+                                    <td>
+                                        <?php echo $row['First_Name'] ?>
+                                    </td>
+                                    <td>
+                                        <?php echo $row['Middle_Name'] ?>
+                                    </td>
+                                    <td>
+                                        <?php echo $row['Last_Name'] ?>
+                                    </td>
+                                    <td>
+                                        <?php echo $row['Course'] ?>
+                                    </td>
+                                    <td>
+                                        <?php echo $row['School'] ?? 'N/A'; ?>
+                                    </td>
+                                    <td>
+                                        <?php echo $row['Degree'] ?? 'N/A'; ?>
+                                    </td>
+                                    <td>
+                                        <?php echo $row['Employment_Status'] ?? 'N/A'; ?>
+                                    </td>
+                                    <td>
+                                        <?php echo $row['Company'] ?? 'N/A'; ?>
+                                    </td>
+                                    <td>
+                                        <?php echo $row['Exam_Name'] ?? 'N/A'; ?>
+                                    </td>
+                                    <td>
+                                        <?php echo $row['Exam_Passed'] ?? 'N/A'; ?>
+                                    </td>
+                                    <td>
+                                        <?php echo $row['Training'] ?? 'N/A'; ?>
+                                    </td>
+                                    <td>
+                                        <?php echo $row['Training_Completed'] ?? 'N/A'; ?>
+                                    </td>
+                                    <td>
+                                        <?php echo $row['Course_Reason'] ?? 'N/A'; ?>
+                                    </td>
+                                    <td>
+                                        <?php echo $row['Course_Category'] ?? 'N/A'; ?>
+                                    </td>
+                                    <td>
+                                        <button type="button" data-id="<?php echo $row['Graduate_ID']; ?>" class="btn-edit btn btn-none">
+                                            <img src="assets/img/pen.png" alt="edit" class="icons_edit">
+                                        </button>
+                                        <button type="button" data-id="<?php echo $row['Graduate_ID']; ?>" class="btn-del btn btn-none">
+                                            <img src="assets/img/delete.png" alt="delete" class="icons_delete">
+                                        </button>
+                                    </td>
+                                </tr>
+                                <?php
+                                    }
+                                } else {
+                                    echo "<tr><td colspan='15' class='text-center'>No records found</td></tr>";
+                                }
+                                ?>
+                            </tbody>
+                        </table> -->
