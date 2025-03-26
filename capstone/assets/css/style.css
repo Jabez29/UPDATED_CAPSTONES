@@ -1,0 +1,235 @@
+body {
+
+    font-family: Arial, sans-serif;
+        display: flex;
+        min-height: 100vh;
+}
+
+/*  */
+
+
+#login-form {
+    max-width: 600px;
+    margin: 200px auto;
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+/* .sidebar {
+    width: 450px;
+    background-color: #f8f9fa;
+    position: fixed;
+    top: 70px;
+    bottom: 0;
+    padding: 0;
+    overflow-y: auto;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+} */
+
+
+.sidebar .list-group-item {
+    border: none;
+    padding: 30px 20px;
+    font-size: 20px;
+    border-bottom: 1px solid #ddd;
+    background-color: #f8f9fa;
+    transition: background-color 0.3s ease;
+}
+
+.sidebar .list-group-item a {
+    color: #333;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+.sidebar .list-group-item a:hover {
+    background-color: #e9ecef;
+    color: grey;
+    
+}
+
+.sidebar .list-group-item img {
+    margin-right: 10px;
+}
+
+
+
+.content {
+    margin-left: 250px;
+    padding: 20px;
+    width: 100%;
+    background-color: #d4edda;
+  
+}
+/* card-custom class for card styling */
+.card-custom {
+    margin-top: 100px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .card-custom {
+        margin-top: 5px;
+        /* Adjust top margin for smaller screens */
+    }
+}
+
+@media (max-width: 576px) {
+    .card-custom {
+        margin-top: 3px;
+        /* Further adjust top margin for very small screens */
+    }
+}
+
+
+.card-header {
+    font-weight: bold;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+ .navbar .ml-auto a {
+     margin-right: 10px;
+ }
+
+ .navbar .dropdown-toggle {
+     margin-left: 20px;
+     /* Adds space between the bell icon and the profile dropdown */
+ }
+ .navbar {
+     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+     /* You
+      can adjust the values as needed */
+ }
+.custom-margin {
+    margin-top: 100px;
+    /* Adjust this value for more space */
+}
+
+
+/* main {
+    width: 100%;
+    padding: 24px 20px 20px 70px;
+    margin-bottom: 10%;
+
+} */
+
+/* main .breadcrumbs {
+    display: flex;
+    grid-gap: 6px;
+    margin-top: 5px;
+
+}
+
+main .breadcrumbs li,
+main .breadcrumbs li a {
+    font-size: 14px;
+}
+
+main .breadcrumbs li a {
+    color: var(--dark);
+}
+
+main .breadcrumbs li a.active,
+main .breadcrumbs li.divider {
+    color: var(--dark-grey);
+    pointer-events: none;
+} */
+
+main .info-data {
+    margin-top: 80px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    grid-gap: 20px;
+    margin-left: 100px;
+}
+
+main .info-data .infocard {
+    padding: 20px;
+    border-radius: 10px;
+    background: var(--light);
+    box-shadow: 4px 4px 16px rgba(0, 0, 0, 0.05);
+}
+
+main .infocard .head {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+main .infocard .head h2 {
+    font-size: 24px;
+    font-weight: 600;
+}
+
+main .infocard .head p {
+    font-size: 14px;
+}
+
+main .infocard .head .icon {
+    font-size: 20px;
+    color: var(--green);
+}
+
+main .infocard .head .icon.down {
+    color: var(--red);
+}
+
+
+main .infocard .label {
+    font-size: 14px;
+    font-weight: 700;
+}
+main .info-data .infocard:nth-child(1) {
+    background: #ffeb3b;
+    /* Yellow */
+}
+
+main .info-data .infocard:nth-child(2) {
+    background: #4caf50;
+    /* Green */
+}
+
+main .info-data .infocard:nth-child(3) {
+    background: #2196f3;
+    /* Blue */
+}
+
+main .info-data .infocard:nth-child(4) {
+    background: #ff5722;
+    /* Orange */
+}
+main .info-data .infocard:nth-child(5) {
+    background: #8e44ad;
+}
+.icons_edit {
+    width: 30px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.icons_delete {
+    width: 26px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.icons_edit:hover,
+.icons_edit:active {
+    transform: scale(1.2);
+    /* Expands the icon on hover and click */
+}
+
+.icons_delete:hover,
+.icons_delete:active {
+    transform: scale(1.2);
+    /* Expands the icon on hover and click */
+}
+.card{
+    margin-top: 70px;
+     margin-left: 100px; 
+ 
+}
